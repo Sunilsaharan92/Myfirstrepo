@@ -1,0 +1,8 @@
+
+
+
+welcome to java
+
+hello world
+
+star patt
