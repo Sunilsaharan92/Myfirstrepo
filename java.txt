@@ -1,12 +1,2 @@
+new branch demo
 
-
-
-welcome to java
-
-hello world
-
-star patt
-
-
-
-New learner 
